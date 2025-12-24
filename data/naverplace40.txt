@@ -1,0 +1,42 @@
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1264343790?c=15.81,0,0,0,dh&placePath=%3Fentry%253Dbmp", #키보 에다마메
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/18138022?c=15.81,0,0,0,dh&placePath=%3Fentry%253Dbmp", #별진화로구이
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1134380329?c=15.81,0,0,0,dh&placePath=%3Fentry%253Dbmp", #남영동양문
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1993434921?c=16.56,0,0,0,dh&placePath=%3Fentry%3Dbmp", #원동미나리삼겹살
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1202589603?c=16.56,0,0,0,dh&placePath=%3Fentry%3Dbmp", #다이빙룸
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1960419585?c=16.56,0,0,0,dh", #KFC 숙대입구점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1437567446?c=17.05,0,0,0,dh", #이웃집영준이
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/21692522?c=17.05,0,0,0,dh", #하노이별 숙대입구점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1584543298?c=17.05,0,0,0,dh", #철길우동까스
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/18128511?c=17.05,0,0,0,dh", #대관령목장
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1452312747?c=17.05,0,0,0,dh", #모토카레시
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/37371125?c=17.05,0,0,0,dh", #라이언스커피로스터스
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/36432841?c=17.05,0,0,0,dh&placePath=%3Fentry%3Dbmp", #구복만두
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1361722409?c=17.51,0,0,0,dh&placePath=%3Fentry%3Dbmp", #한강로칼국수
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1903881715?c=17.51,0,0,0,dh", #더블랙웨일바
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1259626694?c=17.51,0,0,0,dh", #미드스트오브플로우
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1726513067?c=17.51,0,0,0,dh", #가든한밤
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1685877606?c=17.51,0,0,0,dh", #솔티드 스모크
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/20912548?c=17.51,0,0,0,dh", #Jesus Coffee
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1123580172?c=17.51,0,0,0,dh&placePath=%3Fentry%3Dbmp", #남산드럼통 본점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/667716278?c=17.51,0,0,0,dh&placePath=%3Fentry%3Dbmp", #때가이르매
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1706611874?c=17.51,0,0,0,dh&placePath=%3Fentry%3Dbmp", #경성빵공장 카스테라점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/20897435?c=17.83,0,0,0,dh", #둘이파전
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1006912352?c=17.83,0,0,0,dh", #짚신매운갈비찜
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1809018107?c=17.83,0,0,0,dh&placePath=%3Fentry%3Dbmp", #멘타미
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1389258535?c=17.94,0,0,0,dh&placePath=%3Fentry%3Dbmp", #탄막
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1879213294?c=17.94,0,0,0,dh&placePath=%3Fentry%3Dbmp", #청기와타운 남영점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/21427490?c=17.94,0,0,0,dh&placePath=%3Fentry%3Dbmp", #오복함흥냉면
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1477472215?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #카페시바
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1980101692?c=18.28,0,0,0,dh", #하이퐁가든
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1414413246?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #평화남영
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1318653699?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #품계
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1485127270?c=18.28,0,0,0,dh", #온센 용산구점
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1937470835?c=18.28,0,0,0,dh", #틸데
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/33127324?c=18.28,0,0,0,dh", #구구
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1465236583?c=18.28,0,0,0,dh", #MUJABEE
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/20149514?c=18.28,0,0,0,dh", #옛날감자전
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/18715234?c=18.28,0,0,0,dh", #윤지식당
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1740824640?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #살팀보카
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1006208343?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #남영탉
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/20867185?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #소소라면 닭꼬치
+"https://map.naver.com/p/search/%EC%88%99%EB%8C%80%EC%9E%85%EA%B5%AC%EC%97%AD%20%EB%A7%9B%EC%A7%91/place/1183463721?c=18.28,0,0,0,dh&placePath=%3Fentry%3Dbmp", #없음 베이커리
